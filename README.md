@@ -17,8 +17,6 @@
 
 `<style>`: Allows you to define inline CSS styles for elements within the document.
 
-`<script>`: Used to embed JavaScript code or reference external JavaScript files.
-
 `<body>`: Contains the main content of the web page, including text, images, and other elements visible to the user.
 
 `<h1>`: Headings that create a hierarchical structure for the content, with `<h1>` being the highest level and `<h6>` the lowest.
@@ -26,8 +24,6 @@
 `<p>`: Defines a paragraph of text.
 
 `<a>`: Creates hyperlinks to other web pages or resources.
-
-`<img>`: Embeds images in the document.
 
 `<div>`: A versatile container element used for grouping and styling content.
 
@@ -47,8 +43,6 @@
 
 - `text-align`: Sets the horizontal alignment of text (left, right, center, justify).
 
-- `text-decoration`: Adds underlines, overlines, or strikes through text.
-
 - `line-height`: Specifies the vertical space between lines of text.
 
 - `letter-spacing`: Adjusts the space between characters in text.
@@ -56,12 +50,6 @@
 - `word-spacing`: Modifies the space between words in text.
 
 - `background-color`: Sets the background color of an element.
-
-- `background-image`: Adds a background image to an element.
-
-- `background-size`: Controls the size of the background image.
-
-- `background-position`: Determines the starting position of the background image.
 
 - `margin`: Sets the external spacing around an element.
 
@@ -74,14 +62,6 @@
 - `display`: Determines how an element is displayed (e.g., block, inline, inline-block).
 
 - `position`: Sets the positioning method for an element (e.g., static, relative, absolute).
-
-- `top`, `right`, `bottom`, and `left`: Controls the positioning of an element when using `position: absolute` or `position: relative`.
-
-- `z-index`: Controls the stacking order of overlapping elements.
- 
-- `transform`: Applies 2D or 3D transformations to elements (e.g., scaling, rotating).
-  
-- `overflow`: Controls how content that overflows an element is displayed (e.g., hidden, scroll).
 
 These CSS properties provide extensive control over the presentation and layout of HTML elements on web pages. Designers and developers use them to create visually appealing and responsive websites.
 
