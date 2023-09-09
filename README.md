@@ -1,5 +1,5 @@
 # BoxModel
-## Hosted file link: 
+## Hosted file link: https://divyanshrajpoot9.github.io/BoxModel/
 ### HTML (Hypertext Markup Language) uses a variety of tags to structure web content. These tags provide the basic building blocks for creating web pages. 
 ### Brief description of some of the most commonly used HTML tags:
 
@@ -84,3 +84,8 @@
 - `overflow`: Controls how content that overflows an element is displayed (e.g., hidden, scroll).
 
 These CSS properties provide extensive control over the presentation and layout of HTML elements on web pages. Designers and developers use them to create visually appealing and responsive websites.
+
+![Screenshot 2023-09-09 172533](https://github.com/divyanshrajpoot9/BoxModel/assets/114856467/b0ee06b8-5589-43b6-93fa-62ea72170a09)
+![Screenshot 2023-09-09 172630](https://github.com/divyanshrajpoot9/BoxModel/assets/114856467/cf6a4665-c1db-4fec-89fb-be2b38e49de7)
+![Screenshot 2023-09-09 172642](https://github.com/divyanshrajpoot9/BoxModel/assets/114856467/62e0bcdc-8748-44b1-aa9e-8d7ae5af7f5b)
+![Screenshot 2023-09-09 172650](https://github.com/divyanshrajpoot9/BoxModel/assets/114856467/f723b47e-6776-433b-8d7e-c3d506fd567d)
